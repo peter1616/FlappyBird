@@ -3,7 +3,7 @@ omijamy przeszkody stojące na jego  drodze.
 
 Do stworzenie projektu „Flappy Bird” wykorzystam środowisko programistyczne języka JAVA – Eclipse.
 
-PLAN REALIZACJI: 
+PLAN REALIZACJI:                                                                                                                 
 1.Instalacja niezbędnego oprogramowania.                                                                                         
 2.Stworzenie okna programu.                                                                                                     
 3.Konigurowanie głównego tłą gry.                                                                                                
